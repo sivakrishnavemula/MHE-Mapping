@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+plotly==5.24.1
+xlrd
+kaleido==0.2.1
